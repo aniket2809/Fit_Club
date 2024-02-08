@@ -1,0 +1,1 @@
+This is a Simple Website where you can experience a website of a gym with a eamil notification alert.
